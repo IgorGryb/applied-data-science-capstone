@@ -1,0 +1,91 @@
+FlightNumber,Date,BoosterVersion,PayloadMass,Orbit,LaunchSite,LandingType,Flights,GridFins,Reused,Legs,LandingPad,RecoveryShip,Block,ReusedCount,Serial,Customer,StaticFire,MissionOutcome,Latitude,Longitude,Class,Outcome
+1,2019-11-08,Falcon 9 Block 5,4115.3,VLEO,CCAFS LC-40,ASDS,4,False,True,True,None,OCISLY,5,0,B1066,SES,True,Success,28.5623,-80.5774,1,True ASDS
+2,2017-06-06,Falcon 9 Block 5,1229.5,SSO,CCAFS LC-40,Ocean,5,True,False,True,None,None,5,0,B1066,Telesat,True,Success,28.5623,-80.5774,1,True Ocean
+3,2022-07-09,Falcon 9 Full Thrust,8010.9,SSO,CCAFS LC-40,ASDS,3,True,True,True,None,JRTI,3,0,B1054,NASA,True,Success,28.5623,-80.5774,1,True ASDS
+4,2023-09-28,Falcon 9 Block 5,2855.0,LEO,CCAFS LC-40,Ocean,6,True,False,True,None,None,5,0,B1048,NRO,False,Success,28.5623,-80.5774,1,True Ocean
+5,2017-01-19,Falcon 9 Full Thrust,3603.4,VLEO,CCAFS LC-40,ASDS,1,True,True,False,None,JRTI,5,6,B1056,NOAA,True,Success,28.5623,-80.5774,1,True ASDS
+6,2023-07-14,Falcon 9 Full Thrust,3748.1,SSO,CCAFS LC-40,RTLS,1,True,True,True,LZ-1,None,2,3,B1056,NOAA,False,Success,28.5623,-80.5774,1,True RTLS
+7,2019-04-27,Falcon 9 Block 5,3120.8,HEO,CCAFS LC-40,None,6,True,True,True,None,None,3,0,B1053,Iridium,True,Success,28.5623,-80.5774,0,None None
+8,2017-11-21,Falcon 9 Full Thrust,639.2,ISS,CCAFS LC-40,RTLS,7,True,False,True,LZ-4,None,5,0,B1049,EchoStar,True,Success,28.5623,-80.5774,1,True RTLS
+9,2023-12-08,Falcon 9 v1.1,2285.0,VLEO,CCAFS LC-40,None,3,False,False,True,None,None,5,0,B1048,EchoStar,True,Success,28.5623,-80.5774,0,None None
+10,2018-07-18,Falcon 9 Full Thrust,15600.0,PO,CCAFS LC-40,ASDS,1,False,False,True,None,JRTI,3,0,B1054,Telesat,True,Success,28.5623,-80.5774,1,True ASDS
+11,2016-10-07,Falcon 9 Block 5,9488.7,PO,CCAFS LC-40,Ocean,5,True,False,True,None,None,2,0,B1058,NRO,True,Success,28.5623,-80.5774,1,True Ocean
+12,2021-07-06,Falcon 9 v1.1,1615.9,ES-L1,CCAFS LC-40,RTLS,2,True,True,False,LZ-2,None,4,8,B1065,NASA,True,Success,28.5623,-80.5774,1,True RTLS
+13,2020-03-03,Falcon 9 Block 5,12779.1,GEO,CCAFS LC-40,ASDS,1,True,True,True,None,ASOG,2,3,B1064,NOAA,True,Success,28.5623,-80.5774,1,True ASDS
+14,2016-01-27,Falcon 9 Block 5,5549.5,GTO,CCAFS LC-40,ASDS,1,True,True,True,None,JRTI,4,11,B1062,NRO,True,Success,28.5623,-80.5774,1,True ASDS
+15,2014-08-01,Falcon 9 v1.0,1686.9,ISS,CCAFS LC-40,Ocean,2,True,True,True,None,None,4,11,B1062,Orbcomm,True,Success,28.5623,-80.5774,1,True Ocean
+16,2022-10-15,Falcon 9 Block 5,1017.9,PO,CCAFS LC-40,Ocean,4,True,True,True,None,None,2,3,B1052,Inmarsat,False,Success,28.5623,-80.5774,0,False Ocean
+17,2015-10-27,Falcon 9 Full Thrust,10514.5,PO,CCAFS LC-40,ASDS,3,True,True,True,None,ASOG,5,7,B1051,SES,True,Success,28.5623,-80.5774,0,False ASDS
+18,2017-09-26,Falcon 9 Block 5,6281.4,VLEO,CCAFS LC-40,ASDS,4,True,True,True,None,ASOG,3,7,B1053,NOAA,True,Success,28.5623,-80.5774,1,True ASDS
+19,2018-03-08,Falcon 9 v1.1,1781.7,PO,CCAFS LC-40,ASDS,6,True,True,True,None,JRTI,3,10,B1054,Orbcomm,True,Success,28.5623,-80.5774,1,True ASDS
+20,2017-12-24,Falcon 9 Full Thrust,2684.2,VLEO,CCAFS LC-40,RTLS,5,True,True,True,LZ-4,None,4,10,B1055,Inmarsat,True,Success,28.5623,-80.5774,1,True RTLS
+21,2021-10-02,Falcon 9 v1.1,4129.8,ISS,CCAFS LC-40,RTLS,1,True,True,True,LZ-4,None,4,1,B1059,NASA,True,Success,28.5623,-80.5774,1,True RTLS
+22,2017-09-05,Falcon 9 v1.1,3239.3,LEO,CCAFS LC-40,Ocean,1,True,True,True,None,None,4,11,B1049,EchoStar,True,Success,28.5623,-80.5774,0,False Ocean
+23,2013-06-23,Falcon 9 Full Thrust,5850.9,HEO,CCAFS LC-40,RTLS,6,True,False,True,LZ-2,None,3,0,B1066,Inmarsat,True,Success,28.5623,-80.5774,1,True RTLS
+24,2019-10-17,Falcon 9 Full Thrust,1299.3,GTO,CCAFS SLC-40,ASDS,1,True,False,True,None,JRTI,5,0,B1053,NASA,True,Success,28.5632,-80.5768,1,True ASDS
+25,2021-11-08,Falcon 9 Full Thrust,3342.6,LEO,CCAFS SLC-40,ASDS,6,True,False,True,None,OCISLY,5,0,B1062,SES,True,Success,28.5632,-80.5768,1,True ASDS
+26,2022-07-20,Falcon 9 Full Thrust,9193.7,GEO,CCAFS SLC-40,ASDS,2,True,True,True,None,OCISLY,5,8,B1067,Orbcomm,True,Success,28.5632,-80.5768,0,False ASDS
+27,2011-09-25,Falcon 9 Full Thrust,1298.5,SSO,CCAFS SLC-40,ASDS,1,True,False,True,None,ASOG,4,0,B1064,SpaceX,True,Success,28.5632,-80.5768,1,True ASDS
+28,2015-05-11,Falcon 9 Full Thrust,3369.0,LEO,CCAFS SLC-40,ASDS,2,True,False,True,None,OCISLY,1,0,B1051,Thaicom,True,Success,28.5632,-80.5768,1,True ASDS
+29,2020-02-10,Falcon 9 v1.1,6063.4,GTO,CCAFS SLC-40,Ocean,6,True,True,False,None,None,5,0,B1066,SKY Perfect,True,Success,28.5632,-80.5768,0,False Ocean
+30,2017-08-02,Falcon 9 Block 5,2309.4,ISS,CCAFS SLC-40,Ocean,6,True,False,True,None,None,1,0,B1059,Telesat,True,Success,28.5632,-80.5768,0,False Ocean
+31,2014-11-06,Falcon 9 v1.0,3666.6,ISS,CCAFS SLC-40,RTLS,5,True,True,False,LZ-2,None,5,0,B1065,NOAA,True,Success,28.5632,-80.5768,1,True RTLS
+32,2019-03-20,Falcon 9 Block 5,3072.9,MEO,CCAFS SLC-40,RTLS,5,True,False,True,LZ-4,None,5,0,B1059,EchoStar,True,Success,28.5632,-80.5768,1,True RTLS
+33,2023-11-05,Falcon 9 Full Thrust,2929.5,GTO,CCAFS SLC-40,RTLS,3,True,True,True,LZ-2,None,4,5,B1055,Thaicom,True,Success,28.5632,-80.5768,1,True RTLS
+34,2019-05-14,Falcon 9 v1.0,2868.8,ISS,CCAFS SLC-40,ASDS,2,True,False,True,None,OCISLY,2,0,B1052,NRO,True,Success,28.5632,-80.5768,1,True ASDS
+35,2020-08-27,Falcon 9 Full Thrust,3697.7,MEO,CCAFS SLC-40,ASDS,1,False,False,True,None,ASOG,3,0,B1062,Inmarsat,False,Success,28.5632,-80.5768,1,True ASDS
+36,2014-01-21,Falcon 9 Block 5,15600.0,GTO,CCAFS SLC-40,RTLS,2,True,True,True,LZ-2,None,5,3,B1065,Orbcomm,True,Success,28.5632,-80.5768,0,False RTLS
+37,2020-10-25,Falcon 9 Block 5,15600.0,SSO,CCAFS SLC-40,RTLS,2,True,True,False,LZ-4,None,5,6,B1050,Iridium,True,Success,28.5632,-80.5768,0,False RTLS
+38,2020-01-15,Falcon 9 Full Thrust,4791.9,GEO,CCAFS SLC-40,None,7,True,True,False,None,None,5,2,B1055,Telesat,True,Success,28.5632,-80.5768,0,None None
+39,2021-02-06,Falcon 9 Full Thrust,4837.9,VLEO,CCAFS SLC-40,RTLS,2,True,False,True,LZ-4,None,5,0,B1065,NASA,True,Success,28.5632,-80.5768,1,True RTLS
+40,2023-10-03,Falcon 9 v1.0,2566.4,SSO,CCAFS SLC-40,ASDS,3,False,True,True,None,ASOG,4,6,B1058,NRO,True,Success,28.5632,-80.5768,1,True ASDS
+41,2010-12-22,Falcon 9 Block 5,4945.2,LEO,CCAFS SLC-40,ASDS,2,True,True,True,None,ASOG,4,11,B1056,Iridium,True,Success,28.5632,-80.5768,1,True ASDS
+42,2017-08-18,Falcon 9 Full Thrust,2166.7,ES-L1,CCAFS SLC-40,Ocean,4,True,True,True,None,None,3,11,B1060,Telesat,True,Success,28.5632,-80.5768,0,False Ocean
+43,2016-07-07,Falcon 9 Full Thrust,4980.7,VLEO,CCAFS SLC-40,ASDS,2,True,True,True,None,OCISLY,4,2,B1053,Telesat,False,Success,28.5632,-80.5768,1,True ASDS
+44,2012-04-05,Falcon 9 Block 5,9991.2,GTO,CCAFS SLC-40,Ocean,3,True,False,True,None,None,4,0,B1059,SES,True,Success,28.5632,-80.5768,0,False Ocean
+45,2013-05-26,Falcon 9 v1.1,9180.5,ISS,CCAFS SLC-40,ASDS,5,False,True,True,None,JRTI,1,11,B1060,NASA,True,Success,28.5632,-80.5768,0,False ASDS
+46,2019-11-21,Falcon 9 Block 5,2779.3,ISS,CCAFS SLC-40,ASDS,3,True,True,True,None,JRTI,5,4,B1055,EchoStar,True,Success,28.5632,-80.5768,1,True ASDS
+47,2016-10-11,Falcon 9 v1.0,4656.1,LEO,CCAFS SLC-40,ASDS,2,True,True,True,None,ASOG,4,7,B1053,NOAA,True,Success,28.5632,-80.5768,1,True ASDS
+48,2013-02-11,Falcon 9 Full Thrust,3553.2,GEO,CCAFS SLC-40,None,7,False,False,True,None,None,3,0,B1059,Orbcomm,True,Success,28.5632,-80.5768,0,None None
+49,2018-12-07,Falcon 9 v1.1,1599.6,LEO,CCAFS SLC-40,ASDS,5,True,False,True,None,JRTI,5,0,B1049,Inmarsat,True,Success,28.5632,-80.5768,1,True ASDS
+50,2021-02-25,Falcon 9 Block 5,2289.8,VLEO,CCAFS SLC-40,RTLS,3,True,True,False,LZ-4,None,3,5,B1060,NRO,True,Success,28.5632,-80.5768,1,True RTLS
+51,2021-10-01,Falcon 9 v1.0,697.0,GTO,CCAFS SLC-40,ASDS,5,True,False,True,None,JRTI,4,0,B1063,EchoStar,False,Success,28.5632,-80.5768,1,True ASDS
+52,2023-09-08,Falcon 9 Block 5,2134.6,GTO,CCAFS SLC-40,ASDS,7,True,False,True,None,ASOG,2,0,B1060,EchoStar,True,Success,28.5632,-80.5768,1,True ASDS
+53,2018-03-03,Falcon 9 Block 5,870.4,ISS,CCAFS SLC-40,RTLS,3,False,True,True,LZ-4,None,3,8,B1058,SpaceX,True,Success,28.5632,-80.5768,1,True RTLS
+54,2022-06-13,Falcon 9 Block 5,6654.2,GTO,KSC LC-39A,RTLS,1,True,False,True,LZ-4,None,5,0,B1065,Inmarsat,True,Success,28.5733,-80.649,1,True RTLS
+55,2018-02-28,Falcon 9 Full Thrust,1928.2,MEO,KSC LC-39A,ASDS,5,True,True,True,None,OCISLY,1,8,B1053,SES,True,Success,28.5733,-80.649,1,True ASDS
+56,2015-12-12,Falcon 9 Block 5,4168.8,SSO,KSC LC-39A,RTLS,3,False,True,True,LZ-1,None,1,0,B1051,SES,True,Success,28.5733,-80.649,1,True RTLS
+57,2014-04-22,Falcon 9 Full Thrust,1681.2,PO,KSC LC-39A,None,3,True,False,False,None,None,2,0,B1049,NRO,True,Success,28.5733,-80.649,0,None None
+58,2020-01-26,Falcon 9 Block 5,1728.1,GTO,KSC LC-39A,RTLS,2,True,False,False,LZ-1,None,4,0,B1049,NOAA,True,Success,28.5733,-80.649,1,True RTLS
+59,2015-07-09,Falcon 9 Block 5,7631.3,VLEO,KSC LC-39A,RTLS,7,True,False,True,LZ-1,None,4,0,B1050,SES,True,Success,28.5733,-80.649,1,True RTLS
+60,2015-02-23,Falcon 9 Block 5,940.9,PO,KSC LC-39A,RTLS,1,True,True,True,LZ-1,None,5,11,B1048,Iridium,True,Success,28.5733,-80.649,1,True RTLS
+61,2019-05-03,Falcon 9 Block 5,4712.8,HEO,KSC LC-39A,Ocean,6,True,True,True,None,None,3,3,B1050,Thaicom,False,Success,28.5733,-80.649,0,False Ocean
+62,2016-04-05,Falcon 9 Block 5,4833.3,HEO,KSC LC-39A,ASDS,4,True,True,True,None,JRTI,1,2,B1065,SES,True,Success,28.5733,-80.649,1,True ASDS
+63,2015-05-08,Falcon 9 Full Thrust,2343.6,SSO,KSC LC-39A,None,1,True,True,True,None,None,2,3,B1058,NOAA,True,Success,28.5733,-80.649,0,None None
+64,2020-01-04,Falcon 9 v1.0,2318.0,ISS,KSC LC-39A,None,3,True,True,True,None,None,5,6,B1056,Orbcomm,True,Success,28.5733,-80.649,0,None None
+65,2020-01-23,Falcon 9 Block 5,3487.6,SSO,KSC LC-39A,ASDS,5,True,False,False,None,JRTI,4,0,B1058,EchoStar,True,Success,28.5733,-80.649,1,True ASDS
+66,2017-02-16,Falcon 9 Full Thrust,6674.4,GTO,KSC LC-39A,None,1,True,False,True,None,None,5,0,B1051,NASA,True,Success,28.5733,-80.649,0,None None
+67,2023-01-27,Falcon 9 Block 5,755.2,GTO,KSC LC-39A,None,6,True,True,True,None,None,4,9,B1049,NASA,True,Success,28.5733,-80.649,0,None None
+68,2022-03-27,Falcon 9 Block 5,5573.0,HEO,KSC LC-39A,ASDS,2,True,False,True,None,JRTI,4,0,B1061,SpaceX,True,Success,28.5733,-80.649,1,True ASDS
+69,2022-10-05,Falcon 9 Block 5,4105.4,SSO,KSC LC-39A,None,4,False,False,True,None,None,1,0,B1052,NASA,True,Success,28.5733,-80.649,0,None None
+70,2023-04-06,Falcon 9 v1.1,4703.7,LEO,KSC LC-39A,RTLS,6,True,False,True,LZ-1,None,5,0,B1067,Inmarsat,True,Success,28.5733,-80.649,1,True RTLS
+71,2021-09-12,Falcon 9 Full Thrust,3132.0,ES-L1,KSC LC-39A,ASDS,7,True,True,True,None,OCISLY,3,10,B1055,Iridium,True,Success,28.5733,-80.649,1,True ASDS
+72,2023-06-12,Falcon 9 Full Thrust,13892.9,ISS,KSC LC-39A,ASDS,2,True,False,True,None,JRTI,3,0,B1052,Thaicom,True,Success,28.5733,-80.649,0,False ASDS
+73,2020-03-14,Falcon 9 Full Thrust,6924.9,VLEO,KSC LC-39A,Ocean,5,True,False,True,None,None,5,0,B1055,NASA,True,Success,28.5733,-80.649,0,False Ocean
+74,2014-01-15,Falcon 9 v1.1,1596.6,ISS,KSC LC-39A,ASDS,6,True,False,False,None,ASOG,5,0,B1055,SpaceX,True,Success,28.5733,-80.649,1,True ASDS
+75,2011-07-04,Falcon 9 Full Thrust,11098.3,GTO,KSC LC-39A,RTLS,5,True,False,True,LZ-4,None,3,0,B1064,NRO,True,Success,28.5733,-80.649,1,True RTLS
+76,2020-02-16,Falcon 9 Full Thrust,3056.9,HEO,VAFB SLC-4E,None,5,False,True,True,None,None,5,10,B1053,Telesat,True,Success,34.6321,-120.6107,0,None None
+77,2020-02-22,Falcon 9 Full Thrust,6373.5,ISS,VAFB SLC-4E,Ocean,4,True,False,False,None,None,4,0,B1067,NRO,True,Success,34.6321,-120.6107,0,False Ocean
+78,2016-10-28,Falcon 9 Block 5,15600.0,VLEO,VAFB SLC-4E,ASDS,5,True,False,True,None,JRTI,5,0,B1049,Telesat,True,Success,34.6321,-120.6107,1,True ASDS
+79,2022-06-22,Falcon 9 Block 5,5817.0,GTO,VAFB SLC-4E,ASDS,2,True,True,True,None,JRTI,5,4,B1065,SpaceX,True,Success,34.6321,-120.6107,1,True ASDS
+80,2018-07-06,Falcon 9 Full Thrust,1242.2,MEO,VAFB SLC-4E,Ocean,4,True,True,True,None,None,4,11,B1067,SES,True,Failure,34.6321,-120.6107,0,False Ocean
+81,2020-09-10,Falcon 9 v1.1,1026.1,LEO,VAFB SLC-4E,RTLS,3,True,False,True,LZ-1,None,2,0,B1055,NASA,True,Success,34.6321,-120.6107,1,True RTLS
+82,2019-11-07,Falcon 9 Full Thrust,2539.8,SSO,VAFB SLC-4E,ASDS,5,True,True,True,None,JRTI,4,5,B1065,Orbcomm,True,Success,34.6321,-120.6107,1,True ASDS
+83,2015-04-10,Falcon 9 v1.1,5294.9,MEO,VAFB SLC-4E,ASDS,7,True,False,True,None,OCISLY,2,0,B1052,Orbcomm,True,Success,34.6321,-120.6107,1,True ASDS
+84,2015-09-06,Falcon 9 Full Thrust,2177.9,ISS,VAFB SLC-4E,RTLS,4,True,True,True,LZ-1,None,4,2,B1063,Iridium,True,Success,34.6321,-120.6107,1,True RTLS
+85,2022-03-19,Falcon 9 v1.0,2337.9,MEO,VAFB SLC-4E,Ocean,7,True,False,True,None,None,5,0,B1060,NRO,True,Success,34.6321,-120.6107,0,False Ocean
+86,2016-02-09,Falcon 9 Full Thrust,3414.9,SSO,VAFB SLC-4E,Ocean,7,True,False,True,None,None,5,0,B1065,NRO,True,Success,34.6321,-120.6107,0,False Ocean
+87,2015-02-15,Falcon 9 Block 5,6384.6,ISS,VAFB SLC-4E,ASDS,6,True,True,True,None,ASOG,5,8,B1065,SES,True,Success,34.6321,-120.6107,1,True ASDS
+88,2011-12-21,Falcon 9 Block 5,2734.6,GTO,VAFB SLC-4E,RTLS,2,True,False,True,LZ-2,None,5,0,B1050,EchoStar,True,Success,34.6321,-120.6107,1,True RTLS
+89,2020-02-24,Falcon 9 Full Thrust,1825.4,LEO,VAFB SLC-4E,RTLS,6,True,False,True,LZ-2,None,5,0,B1057,EchoStar,True,Success,34.6321,-120.6107,1,True RTLS
+90,2023-12-23,Falcon 9 Block 5,1586.4,PO,VAFB SLC-4E,Ocean,2,True,True,True,None,None,3,0,B1057,Thaicom,True,Success,34.6321,-120.6107,0,False Ocean
